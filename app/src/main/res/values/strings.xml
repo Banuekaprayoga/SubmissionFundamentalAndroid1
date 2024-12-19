@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DicodingEventSubmission</string>
+    // Menu
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_Finished">Finished</string>
+    <string name="title_Search">Search</string>
+    <string name="dicoding_name">Dicoding</string>
+    // Home Menu
+    <string name="dicoding_event_name">Dicoding Event</string>
+    <string name="upcoming_event">Upcoming Event</string>
+    <string name="finished_event">Finished Event</string>
+    <string name="search_hint">Masukkan Kata</string>
+    // Upcoming Menu
+    <string name="sample_title">Career Session Android: Memulai Karir Sebagai Android Developer</string>
+    <string name="recomend_event">Recommendation event for you!</string>
+    <string name="sample_category">Seminar</string>
+    <string name="sample_owner">Oleh: Dicoding Event</string>
+    <string name="owner">Oleh: %1$s</string>
+    <string name="sample_quota">Sisa Quota: 1351</string>
+    <string name="quota">Sisa Quota: %d</string>
+    <string name="summary">Ringkasan:</string>
+    <string name="sample_summary">Acara ini sepenuhnya GRATIS dan akan diselenggarakan hari Jumat, 11 Oktober 2024 pukul 16.00 - 17.00 WIB Live di YouTube.</string>
+    <string name="sample_time">2024-10-11 16:00:00</string>
+    <string name="sample_desc">Deskripsi</string>
+    <string name="sample_detail_owner">Diselenggarakan Oleh: Dicoding Event</string>
+    <string name="detail_owner">Diselenggarakan Oleh: %1$s</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
